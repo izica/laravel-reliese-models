@@ -6,6 +6,7 @@ use Illuminate\Support\Arr;
 use Reliese\Meta\Blueprint;
 use Illuminate\Support\Fluent;
 use Illuminate\Database\Connection;
+use Illuminate\Support\Facades\DB;
 
 /**
  * Created by Cristian.
